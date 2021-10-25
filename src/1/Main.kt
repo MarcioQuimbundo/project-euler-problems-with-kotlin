@@ -1,3 +1,5 @@
+package `1`
+
 fun main() {
     val target = 1000
     var sum = 0
